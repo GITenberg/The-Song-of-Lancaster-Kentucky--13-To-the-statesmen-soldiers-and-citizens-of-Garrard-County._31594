@@ -1,0 +1,28 @@
+_repo: The-Song-of-Lancaster-Kentucky--13-To-the-statesmen-soldiers-and-citizens-of-Garrard-County._31594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potts, Eugenia Dunlap
+    alias: Potts, E. D. (Eugenia Dunlap)
+    gutenberg_agent_id: '5829'
+    url: http://www.gutenberg.org/2009/agents/5829
+description: ''
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31594'
+  lccn: rc01002643
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Lancaster (Ky.) -- History -- Poetry'
+- !lcc 'F396'
+title: "The Song of Lancaster, Kentucky\r\nTo the statesmen, soldiers, and citizens\
+  \ of Garrard County."
+url: http://www.gutenberg.org/ebooks/31594
